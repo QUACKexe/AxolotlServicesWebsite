@@ -18,7 +18,7 @@ export default function Home() {
         <Image src="/favicon.png" width={150} height={150} alt="Axolotl" />
 
         <h1 className={styles.title}>
-          Welcome to <span className='pink'>Axolotl Services</span>! 
+          Welcome to <span className='pink'>Axolotl Services</span>!
         </h1>
 
         <div className={styles.grid}>
