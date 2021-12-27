@@ -35,6 +35,12 @@ export default function Home() {
                 <p>All the services we offer, their prices, and other information about them.</p>
                 </a>
           </Link>
+          <Link href="/team/">
+                <a className={styles.card}>
+                <h2>Team</h2>
+                <p>All our employees that provide you an amazing experience.</p>
+                </a>
+          </Link>
           
 
         </div>
